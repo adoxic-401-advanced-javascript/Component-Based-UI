@@ -2,7 +2,7 @@
 
 ## Comp Based UI
 
-### Author: Student/Group Name
+### Author: Maeve Griffin
 
 ### Links and Resources
 * [submission PR](https://github.com/adoxic-401-advanced-javascript/Component-Based-UI/pull/1)
