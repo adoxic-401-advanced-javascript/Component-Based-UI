@@ -1,0 +1,10 @@
+.Header {
+  background-color: lightgray;
+  border-radius: 1em;
+  padding: 1.5em;
+  font-family: 'Creepster', cursive;
+  text-align: center;
+  color: red;
+  text-align: center;
+  letter-spacing: .15em;
+}

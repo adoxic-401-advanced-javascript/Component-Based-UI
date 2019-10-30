@@ -1,0 +1,23 @@
+.Character {
+  background-color: lightgray;
+  list-style: none;
+  width: 45vw;
+  margin: .2em;
+  margin-top: 1em;
+  border-radius: 1em;
+  img {
+    border: red, solid, 10px;
+  }
+
+  h1 {
+    font-family: 'Creepster', cursive;
+    text-align: center;
+    color: red;
+    word-wrap: break-word;
+    letter-spacing: .05em;
+  }
+  p {
+    font-family: 'Gabriela', serif;
+    margin-left: 1em;
+  }
+}
