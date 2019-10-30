@@ -1,7 +1,7 @@
 const HtmlPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
-module.exports = {
+export default {
   entry: './src/index.js',
   output: {
     filename: './bundle.[hash].js'
